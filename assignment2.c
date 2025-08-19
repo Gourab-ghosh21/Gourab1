@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
-{ float a;
-scanf("%f",&a);
-printf("%f\n",a);
+{ float a,b,c;
+printf("Enter Two Numbers:");
+scanf("%f%f",&a,&b);
+c=a+b;
+printf("sum is : %f",c);
 return 0
-}./a.
+}
