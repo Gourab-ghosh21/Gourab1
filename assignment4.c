@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
-{int a;
-    scanf("%d",a)
-printf("%d");
+{char c;
+ printf("Enter a character:");
+    scanf("%c",&c);
+printf("The ASCII Value is :%d",c);
 return 0;
 }
