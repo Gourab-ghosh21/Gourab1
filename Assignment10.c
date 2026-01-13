@@ -5,7 +5,6 @@ int main() {
 
     // Print original values
     printf("Before swapping: a = %d, b = %d\n", a, b);
-
     // Swapping without using a third variable
     a = a + b;  // a = 10 + 15 = 25
     b = a - b;  // b = 25 - 15 = 10
