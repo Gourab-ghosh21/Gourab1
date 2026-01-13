@@ -2,7 +2,6 @@
 
 int main() {
     int a = 10, b = 15;
-
     // Print original values
     printf("Before swapping: a = %d, b = %d\n", a, b);
     // Swapping without using a third variable
