@@ -5,5 +5,5 @@ printf("Enter Two Numbers:");
 scanf("%f%f",&a,&b);
 c=a+b;
 printf("sum is : %f",c);
-return 
+return 0
 }
